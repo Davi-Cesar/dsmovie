@@ -12,10 +12,10 @@ public class Movie {
 	
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
-	private long id;
+	private Long id;
 	private String title;
-	private double score;
-	private int count;
+	private Double score;
+	private Integer count;
 	private String image;
 	
 	Movie() {
