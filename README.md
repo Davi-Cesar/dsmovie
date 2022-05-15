@@ -1,8 +1,8 @@
 # dsmovie
 Movie review web application
 
-#Frontend
+# Frontend
 ReactJS
 
-#Backend
+# Backend
 Spring with API - REST
